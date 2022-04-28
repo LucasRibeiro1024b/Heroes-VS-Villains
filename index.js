@@ -9,5 +9,5 @@ const versus = {
   'villain': villain
 }
 
-console.log(versus);
+// console.log(versus);
 console.log(versus.hero + ' VS ' + versus.villain);
