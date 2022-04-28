@@ -1,0 +1,24 @@
+{
+  "name": "heroesvsvillains",
+  "version": "1.0.0",
+  "description": "Heroes VS Villains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasRibeiro1024b/Heroes-VS-Villains.git"
+  },
+  "keywords": [
+    "Heroes",
+    "Villains",
+    "Versus"
+  ],
+  "author": "Ribeiro Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasRibeiro1024b/Heroes-VS-Villains/issues"
+  },
+  "homepage": "https://github.com/LucasRibeiro1024b/Heroes-VS-Villains#readme"
+}
