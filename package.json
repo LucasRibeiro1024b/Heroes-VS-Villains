@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LucasRibeiro1024b/Heroes-VS-Villains/issues"
   },
-  "homepage": "https://github.com/LucasRibeiro1024b/Heroes-VS-Villains#readme"
+  "homepage": "https://github.com/LucasRibeiro1024b/Heroes-VS-Villains#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
